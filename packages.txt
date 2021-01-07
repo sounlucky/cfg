@@ -8,7 +8,7 @@ xmonad xmonad-contrib  # window manager
 xmobar  # bar
 dmenu  # menu
 picom  # compositor
-nitrogen  # wallpaper
+feh  # wallpaper
 
 # media
 vlc 
