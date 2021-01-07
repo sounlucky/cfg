@@ -2,7 +2,7 @@
 setxkbmap -layout us,ru -option grp:alt_shift_toggle &
 
 # wallpaper
-feh --bg-center --randomize ~/.wallpaper/* &
+feh --bg-center --randomize ~/.wallpaper &
 
 # compositor
 picom -f & 
