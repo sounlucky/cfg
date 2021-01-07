@@ -21,7 +21,6 @@ code
 
 # messengers
 discord 
-vk-messenger 
 telegram-desktop 
 
 # nice to have

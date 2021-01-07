@@ -1,1 +1,1 @@
-pacman -S --needed - < packages.txt
+sed -e 's/#.*//' packages.txt | xargs pacman -S --needed -
