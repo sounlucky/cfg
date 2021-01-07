@@ -1,7 +1,8 @@
 # shell & terminal
 zsh alacritty 
+
 # DE
-xorg 
+xorg xorg-xinit
 lightdm lightdm-gtk-greeter 
 xmonad xmonad-contrib  # window manager
 xmobar  # bar
@@ -29,3 +30,6 @@ neofetch
 # fonts 
 ttf-jetbrains-mono 
 ttf-font-awesome 
+
+# in case its run in VM
+open-vm-tools libxcomposite
