@@ -14,7 +14,7 @@ feh  # wallpaper
 vlc 
 chromium 
 
-git gcc python # dev
+git openssh gcc python # dev
 code 
 
 # messengers
@@ -27,4 +27,3 @@ neofetch
 # fonts 
 ttf-jetbrains-mono 
 ttf-font-awesome 
-
