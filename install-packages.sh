@@ -4,4 +4,5 @@ sed -e 's/#.*//' packages.txt | xargs pacman -S --needed --noconfirm
 # enable services
 sudo systemctl enable lightdm
 
-yay -S zplug
+# zshell plugin manager
+git clone https://github.com/zplug/zplug ~/.zplug
