@@ -6,7 +6,7 @@ xorg xorg-xinit
 lightdm lightdm-gtk-greeter 
 xmonad xmonad-contrib  # window manager
 xmobar  # bar
-dmenu  # menu
+dmenu rofi # menus
 picom  # compositor
 feh  # wallpaper
 
@@ -14,10 +14,7 @@ feh  # wallpaper
 vlc 
 chromium 
 
-# development
-git 
-gcc 
-python 
+git gcc python # dev
 code 
 
 # messengers
@@ -31,5 +28,3 @@ neofetch
 ttf-jetbrains-mono 
 ttf-font-awesome 
 
-# in case its run in VM
-open-vm-tools libxcomposite

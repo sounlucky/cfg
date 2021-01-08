@@ -1,7 +1,7 @@
 # keeb layout
 setxkbmap -layout us,ru -option grp:alt_shift_toggle &
 
-# wallpaper
+# random wallpaper
 feh --bg-center --randomize ~/.wallpaper &
 
 # compositor
