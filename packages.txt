@@ -1,6 +1,9 @@
 # shell & terminal
 zsh alacritty 
 
+# password manager
+pass
+
 # DE
 xorg xorg-xinit
 lightdm lightdm-gtk-greeter 
