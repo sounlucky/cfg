@@ -1,3 +1,7 @@
+# install
 sed -e 's/#.*//' packages.txt | xargs pacman -S --needed --noconfirm
-echo ' <-- installed packages --> '
-read -p "Press enter to continue"
+
+# enable services
+sudo systemctl enable lightdm
+
+yay -S zplug
