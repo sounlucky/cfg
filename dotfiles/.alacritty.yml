@@ -2,19 +2,19 @@
 # Font configuration
 font:
   normal:
-    family: DejaVu Sans Mono
+    family: "MesloLGS NF"
     style: Regular
 
   bold:
-    family: DejaVu Sans Mono
+    family: "MesloLGS NF"
     style: Bold
 
   italic:
-    family: DejaVu Sans Mono
+    family: "MesloLGS NF"
     style: Italic
 
   bold_italic:
-    family: DejaVu Sans Mono
+    family: "MesloLGS NF"
     style: Bold Italic
 
   size: 17.0

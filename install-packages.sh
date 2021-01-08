@@ -6,3 +6,5 @@ sudo systemctl enable lightdm
 
 # zshell plugin manager
 git clone https://github.com/zplug/zplug ~/.zplug
+
+yay -S ttf-meslo-nerd-font-powerlevel10k
