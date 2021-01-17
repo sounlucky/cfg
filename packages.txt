@@ -1,17 +1,14 @@
 # shell & terminal
 zsh alacritty 
 
+# bluetooth (blueman-manager)
+bluez bluez-utils blueman
+
+# sound control
+pavucontrol
+
 # password manager
 pass
-
-# DE
-xorg xorg-xinit
-lightdm lightdm-gtk-greeter 
-xmonad xmonad-contrib  # window manager
-xmobar  # bar
-dmenu # menus
-picom  # compositor
-feh  # wallpaper
 
 # media
 vlc 
